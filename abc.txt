@@ -1,0 +1,4 @@
+Deadpool Costume,fire,15,0
+Wolverine Costume,air,24.5,6
+Superman Costume,earth,18,7
+Spiderman Costume,water,23,4
